@@ -27,7 +27,7 @@ const App = () => {
         <Stack.Screen name="PWAResources" component={PWAResources} />
         <Stack.Screen name="DiscussionForum" component={DiscussionForum} />
         <Stack.Screen name="ExpertAdvice" component={ExpertAdvice} />
-      </Stack.Navigator>
+      </Stack.Navigator> 
     </NavigationContainer>
   );
 };
